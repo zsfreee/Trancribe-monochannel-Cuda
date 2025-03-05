@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+whisper_env/
+env/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FFmpeg binaries
+*.exe
+*.dll
+
+# Whisper cache
+.cache/
+
+# Temporary files
+*.wav
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Output directories
+**/С таймкодами/
+**/Без таймкодов/
+**/CSV transcribe/
