@@ -24,7 +24,7 @@
 
 ### 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/ваш-username/whisper-mono-transcription-tool.git
+git clone https://github.com/zsfreee/whisper-mono-transcription-tool.git
 cd whisper-mono-transcription-tool
 ```
 
